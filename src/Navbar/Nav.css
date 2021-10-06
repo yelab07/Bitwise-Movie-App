@@ -1,0 +1,36 @@
+.nav-container {
+  display: flex;
+  background-color: #be0101;
+  justify-content: space-between;
+  height: 9vh;
+  align-items: center;
+}
+.logo-container {
+  margin-left: 50px;
+  font-size: 40px;
+  color:rgb(88, 43, 43);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+}
+.input-container {
+  margin-right: 50px;
+}
+.input-box {
+  border-radius: 20px;
+  border:1px solid #ddd;
+  font-size: 25px;
+  padding-right: 80px;
+  padding-left: 80px;
+  line-height: 45px;
+}
+.butn-Style {
+  border-radius: 20px;
+  border: none;
+  font-size: 35px;
+  padding: 0 10px;
+  line-height: 45px;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-left: 10px;
+}
